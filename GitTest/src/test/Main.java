@@ -8,4 +8,8 @@ public class Main {
 		System.err.println("YEPI");
 	}
 
+	public boolean isTrue()
+	{
+		return true;
+	}
 }
